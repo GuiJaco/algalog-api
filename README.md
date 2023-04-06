@@ -1,11 +1,11 @@
 # Projeto Mergulho Spring REST da Algaworks
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuiJaco/projeto-alga-works/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuiJaco/algalog-api/blob/main/LICENSE)
 
 # Sobre o projeto
 Este é um projeto desenvolvido durante o Bootcamp da AlgaWorks, com o objetivo de estudar e aplicar diversas tecnologias. Trata-se de uma aplicação API que simula uma loja, permitindo o cadastro e consulta de clientes, solicitação, consulta e finalização de entregas, bem como o registro de ocorrências relacionadas às entregas. Com essa aplicação, é possível explorar na prática tecnologias como as citadas a baixo.
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/GuiJaco/projeto-alga-works/blob/main/assets/img/mapa-conceitual-alga-log.png)
+![Modelo Conceitual](https://github.com/GuiJaco/algalog-api/blob/main/assets/img/mapa-conceitual-alga-log.png)
 
 # Tecnologias utilizadas
 ## Back end
