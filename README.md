@@ -42,7 +42,7 @@ Realizar as consultas utilizando Insomnia/Postman com os Paths informados abaixo
 Ou
 
 # Utilizando o docker
-Baixar a imagem no DockerHub
+Baixar a imagem no DockerHub: https://hub.docker.com/repository/docker/guijaco/algalog-api
 
 Rodar o container com as variáveis de ambiente setadas para seu MySQL usando o comando: 
   "docker run -e DB_USER=$ -e DB_PASSWORD=$ -p 8080:8080 guijaco/algalog-api"
