@@ -31,7 +31,7 @@ MySQL
 
 ```bash
 # Utilizando o git
-git clone https://github.com/GuiJaco/projeto-alga-works
+git clone https://github.com/GuiJaco/algalog-api.git
 
 Setar as variáveis de ambiente setadas para seu MySQL no application.properties: ${DB_USER}, ${DB_PASSWORD}
 
