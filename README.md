@@ -57,7 +57,7 @@ Paths Clientes:
 
 GET - "/clientes" - Lista de clientes
 
-GET - "/{clienteId}" - Cliente pelo Id
+GET - "/clientes/{clienteId}" - Cliente pelo Id
 
 POST - "/clientes" - Adicionar cliente 
     {
@@ -66,9 +66,9 @@ POST - "/clientes" - Adicionar cliente
       "telefone": "Exemple"
     }
 
-PUT - "/{clienteId}" - Atualizar cliente
+PUT - "/clientes/{clienteId}" - Atualizar cliente
 
-DELETE - "/{clienteId}" - Excluir cliente
+DELETE - "/clientes/{clienteId}" - Excluir cliente
 
 -----------------------------------------------------
 
@@ -76,7 +76,7 @@ Paths Entregas:
 
 GET - "/entregas" - Lista de Entregas
 
-GET - "/{entregaId}" - Entrega pelo Id
+GET - "/entregas/{entregaId}" - Entrega pelo Id
 
 POST - "/entregas" - Adicionar entrega
     {
@@ -93,7 +93,7 @@ POST - "/entregas" - Adicionar entrega
 	"taxa": BigDecimal
 }
 
-PUT - "/{entregaId}/finalizacao" - Finalizar entrega
+PUT - "/entregas/{entregaId}/finalizacao" - Finalizar entrega
 
 -----------------------------------------------------
 
